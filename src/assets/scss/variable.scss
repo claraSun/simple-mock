@@ -1,0 +1,163 @@
+//設計提供的Guideline
+
+// Color Palette
+$main_color: #F38844;
+$similar_color: #FDEDE3;
+$adorn_color: #D0212A;
+$warning_color: #FF3B3B;
+$gradient_color: linear-gradient(#F38844,#FF7D00);
+
+$title_text: #333333;
+$subTitle_text: #929292;
+// 輔助
+$help_text: #AAABAB;
+// 小字說明
+$info_text: #C8C8C8;
+
+//格線
+$breakUp_line: #F1F1F1;
+
+// app背景色
+$appBackground_color: #F5F5F5;
+
+// 表单错误信息
+.err__msg {
+  color: $warning_color;
+  font-size: 10px;
+  display: block;
+  position: absolute;
+  top: -20px;
+  left: 0;
+  z-index: 100;
+}
+
+// 帳號區塊
+.defaultUserBlock {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-content: space-between;
+  // min-height: 700px;
+  height: 100vh;
+  .userInfo {
+    flex: 1 1 auto;
+    // height: 80%;
+    padding: 20px 30px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    .form-title {
+      font-size: 18px;
+      margin-bottom: 6px;
+    }
+    .form-group {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      border-bottom: 1px solid $breakUp_line;
+      height: 53px;
+      align-items: center;
+      margin-top: 10px;
+      .title {
+        font-size: 14px;
+        color: $title_text;
+        padding-right: 12px;
+        text-align: justify;
+        text-align-last: justify;
+        display: inline-grid;
+        width: 58px;
+        position: relative;
+        
+        &:after {
+          content: '\FF1A';
+          position: absolute;
+          right: -5px;
+          top: 0;
+          z-index: 100;
+        }
+      }
+      .need-icon{
+        &:before {
+          content: '*';
+          position: absolute;
+          color: $warning_color;
+          z-index: 100;
+          left: -10px;
+          top: 3px;
+        }
+      }
+      .content {
+        margin-left: 10px;
+        position: relative;
+        text-align: left;
+        flex: 1 1 auto;
+        input {
+          outline: 0;
+          font-size: 14px;
+          // margin-top: 8px;
+        }
+      }
+      .addon {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        flex-wrap: nowrap;
+        width: 14px;
+        .clear {
+          width: 14px;
+        }
+      }
+      .hideIcon {
+        margin-left: 5px;
+      }
+    }
+  }
+  .form-btn {
+    padding: 20px;
+  }
+  .bottomLink {
+    flex: 0 1 auto;
+    height: 48px;
+    a {
+      font-size: 12px;
+      color: $help_text;
+      text-decoration: none;
+      border-right: 1px solid $help_text;
+      padding: 0 19px;
+      line-height: 0;
+      &:last-child {
+        border: 0;
+      }
+    }
+  }
+  .form-btn-parmary {
+    border-radius: 5px;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+    width: 100%;
+    border: transparent;
+    box-sizing: border-box;
+    background: #0076ff;
+    color: #ffffff;
+  }
+  .form-btn-disabled {
+    border-radius: 5px;
+    height: 44px;
+    line-height: 44px;
+    text-align: center;
+    font-size: 16px;
+    display: inline-block;
+    width: 100%;
+    border: transparent;
+    box-sizing: border-box;
+    background: #E0E0E0;
+    color: #ADAEAE;
+  }
+}

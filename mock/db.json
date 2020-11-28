@@ -1,0 +1,263 @@
+{
+  "code": [
+    "0"
+  ],
+  "message": [
+    "成功"
+  ],
+  "home": [
+    {
+      "id": 1,
+      "title": "意甲，那不勒斯",
+      "imgUrl": "https://w.wallhaven.cc/full/0w/wallhaven-0wvl5q.jpg",
+      "linkUrl": "#"
+    },
+    {
+      "id": 2,
+      "title": "多特蒙德",
+      "imgUrl": "https://w.wallhaven.cc/full/0p/wallhaven-0pl219.jpg",
+      "linkUrl": "#"
+    },
+    {
+      "id": 3,
+      "title": "法甲里昂",
+      "imgUrl": "https://w.wallhaven.cc/full/4g/wallhaven-4g77md.jpg",
+      "linkUrl": "#"
+    }
+  ],
+  "register": [
+    {
+      "id": "11111111",
+      "loginName": "11111111",
+      "passWord": "11111111"
+    },
+    {
+      "id": "0000000000",
+      "loginName": "0000000000",
+      "passWord": "0000000000000000"
+    },
+    {
+      "id": "2222222222",
+      "loginName": "2222222222",
+      "passWord": "22222222222222"
+    },
+    {
+      "id": "4444444444",
+      "loginName": "4444444444",
+      "passWord": "44444444"
+    },
+    {
+      "id": "888888",
+      "loginName": "888888",
+      "passWord": "888888"
+    }
+  ],
+  "marqueeList": [
+    {
+      "id": 161,
+      "announcementNum": 431405220510306300,
+      "permanentSwitch": 1,
+      "annTitle": "新增跑马灯公告测试",
+      "annContent": "新增跑马灯公告测试新增跑马灯公告测试新增跑马灯公告测试",
+      "status": null,
+      "propelStatus": 0,
+      "draftFlag": 0,
+      "deleteFlag": 0,
+      "createId": 539,
+      "createAccount": "b02testaccount",
+      "updateId": null,
+      "updateAccount": null,
+      "beginTime": "2020-06-12 00:00:00",
+      "endTime": "2020-06-17 23:59:59",
+      "createTime": "2020-06-08 17:25:58",
+      "updateTime": null,
+      "companyCode": 8887,
+      "productCode": 888798
+    },
+    {
+      "id": 162,
+      "announcementNum": 432354698700525600,
+      "permanentSwitch": 1,
+      "annTitle": "我是跑馬燈",
+      "annContent": "我是跑馬燈我是跑馬燈我是跑馬燈我是跑馬燈我是跑馬燈我是跑馬燈",
+      "status": null,
+      "propelStatus": 0,
+      "draftFlag": 0,
+      "deleteFlag": 0,
+      "createId": 539,
+      "createAccount": "b02testaccount",
+      "updateId": null,
+      "updateAccount": null,
+      "beginTime": "2020-06-15 11:49:35",
+      "endTime": "2020-06-21 23:59:59",
+      "createTime": "2020-06-08 17:25:58",
+      "updateTime": null,
+      "companyCode": 8887,
+      "productCode": 888798
+    },
+    {
+      "id": 165,
+      "announcementNum": 432433815936569340,
+      "permanentSwitch": 1,
+      "annTitle": "OG东方体育跑马灯公告",
+      "annContent": "OG东方体育跑马灯公告测试公告",
+      "status": null,
+      "propelStatus": 0,
+      "draftFlag": 0,
+      "deleteFlag": 0,
+      "createId": 539,
+      "createAccount": "b02",
+      "updateId": null,
+      "updateAccount": null,
+      "beginTime": "2020-06-15 17:03:42",
+      "endTime": "2020-06-22 23:59:59",
+      "createTime": "2020-06-15 17:04:23",
+      "updateTime": null,
+      "companyCode": 8887,
+      "productCode": 888798
+    },
+    {
+      "id": 172,
+      "announcementNum": 441159512783982600,
+      "permanentSwitch": 1,
+      "annTitle": "跑馬燈測試0709",
+      "annContent": "跑馬燈測試0709跑馬燈測試0709跑馬燈測試0709跑馬燈測試0709跑馬燈測試0709跑馬燈測試0709跑馬燈測試0709",
+      "status": null,
+      "propelStatus": 0,
+      "draftFlag": 0,
+      "deleteFlag": 0,
+      "createId": 539,
+      "createAccount": "b02",
+      "updateId": null,
+      "updateAccount": null,
+      "beginTime": "2020-07-09 18:56:44",
+      "endTime": "2020-07-31 23:59:59",
+      "createTime": "2020-07-09 18:57:12",
+      "updateTime": null,
+      "companyCode": 8887,
+      "productCode": 888798
+    }
+  ],
+  "contents": [
+    {
+      "title_text": "游戏聚集",
+      "help_text": "每日推荐，限时福利，精选游戏",
+      "imgPath": [],
+      "singleImg": "https://picsum.photos/380/154",
+      "sub_title": "",
+      "sub_help": "",
+      "anchor": "hot"
+    },
+    {
+      "title_text": "体育",
+      "help_text": "聚焦全球热点赛事",
+      "imgPath": [],
+      "singleImg": "https://picsum.photos/380/154",
+      "sub_title": "东方体育",
+      "sub_help": "最全赛事平台",
+      "anchor": "sport"
+    },
+    {
+      "title_text": "真人",
+      "help_text": "聚焦全球优质小游戏",
+      "imgPath": [],
+      "singleImg": "https://picsum.photos/380/154",
+      "sub_title": "OG真人",
+      "sub_help": "性感荷官在线发牌",
+      "anchor": "guys"
+    },
+    {
+      "title_text": "棋牌",
+      "help_text": "好玩又烧脑棋牌游戏一网打尽",
+      "index": "",
+      "imgList": [
+        {
+          "imgSrc": "https://picsum.photos/id/233/380/154",
+          "imgUrl": "",
+          "imgName": "MW棋牌1"
+        },
+        {
+          "imgSrc": "https://picsum.photos/380/154",
+          "imgUrl": "",
+          "imgName": "MW棋牌2"
+        },
+        {
+          "imgSrc": "https://picsum.photos/id/233/380/154",
+          "imgUrl": "",
+          "imgName": "MW棋牌3"
+        }
+      ],
+      "singleImg": "",
+      "sub_title": "",
+      "sub_help": "",
+      "anchor": "card"
+    },
+    {
+      "title_text": "捕鱼",
+      "help_text": "聚焦全球优质小游戏",
+      "imgPath": [],
+      "singleImg": "https://picsum.photos/380/154",
+      "sub_title": "OG真人",
+      "sub_help": "性感荷官在线发牌",
+      "anchor": "fish"
+    },
+    {
+      "title_text": "电游",
+      "help_text": "好玩又烧脑棋牌游戏一网打尽",
+      "index": "",
+      "imgList": [
+        {
+          "imgSrc": "https://picsum.photos/seed/picsum/380/154",
+          "imgUrl": "",
+          "imgName": "MW棋牌1"
+        },
+        {
+          "imgSrc": "https://picsum.photos/380/154",
+          "imgUrl": "",
+          "imgName": "MW棋牌2"
+        },
+        {
+          "imgSrc": "https://picsum.photos/seed/picsum/380/154",
+          "imgUrl": "",
+          "imgName": "MW棋牌3"
+        }
+      ],
+      "singleImg": "",
+      "sub_title": "",
+      "sub_help": "",
+      "anchor": "electronic",
+      "smallImgList": [
+        {
+          "simgSrc": "https://imgur.com/aZdI3FX.png')",
+          "simgName": "超级斗地主",
+          "simgUrl": ""
+        },
+        {
+          "simgSrc": "https://imgur.com/G4ZZzzo.png')",
+          "simgName": "炸金花",
+          "simgUrl": ""
+        },
+        {
+          "simgSrc": "https://imgur.com/aZdI3FX.png')",
+          "simgName": "超级斗地主",
+          "simgUrl": ""
+        },
+        {
+          "simgSrc": "https://imgur.com/G4ZZzzo.png')",
+          "simgName": "炸金花",
+          "simgUrl": ""
+        },
+        {
+          "simgSrc": "https://imgur.com/aZdI3FX.png')",
+          "simgName": "超级斗地主",
+          "simgUrl": ""
+        },
+        {
+          "simgSrc": "https://imgur.com/G4ZZzzo.png')",
+          "simgName": "炸金花",
+          "simgUrl": ""
+        }
+      ]
+    }
+  ]
+}
