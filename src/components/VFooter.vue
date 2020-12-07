@@ -45,12 +45,15 @@ export default {
   align-items: baseline;
   height: 47px;
   background: white;
+  
   a,div {
     flex: 1 1 20%;
     width: 20%;
   }
 }
-
-
-
+</style>
+<style lang="scss">
+  .v-footer.font-weight-medium {
+    margin-bottom: -1px;
+  }
 </style>

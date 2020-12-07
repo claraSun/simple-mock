@@ -17,7 +17,7 @@ export default {
         {
           urlLink: '#',
           imgPath: require('@/assets/images/m1.jpg'),
-          text: 'OG真人'
+          text: 'S真人'
         },
         {
           urlLink: '#',

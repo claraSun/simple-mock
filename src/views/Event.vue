@@ -3,7 +3,7 @@
     <v-card>
     <v-tabs
       v-model="tab"
-      background-color="#f38844"
+      background-color="#393e41"
       dark
     >
       <v-tab

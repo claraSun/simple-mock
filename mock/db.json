@@ -50,6 +50,16 @@
       "id": "888888",
       "loginName": "888888",
       "passWord": "888888"
+    },
+    {
+      "id": "clarasun12",
+      "loginName": "clarasun12",
+      "passWord": "clarasun12"
+    },
+    {
+      "id": "clarasun33",
+      "loginName": "clarasun33",
+      "passWord": "clarasun33"
     }
   ],
   "marqueeList": [
@@ -99,8 +109,8 @@
       "id": 165,
       "announcementNum": 432433815936569340,
       "permanentSwitch": 1,
-      "annTitle": "OG东方体育跑马灯公告",
-      "annContent": "OG东方体育跑马灯公告测试公告",
+      "annTitle": "S体育跑马灯公告",
+      "annContent": "S体育跑马灯公告测试公告",
       "status": null,
       "propelStatus": 0,
       "draftFlag": 0,
@@ -162,7 +172,7 @@
       "help_text": "聚焦全球优质小游戏",
       "imgPath": [],
       "singleImg": "https://picsum.photos/380/154",
-      "sub_title": "OG真人",
+      "sub_title": "S真人",
       "sub_help": "性感荷官在线发牌",
       "anchor": "guys"
     },
@@ -197,7 +207,7 @@
       "help_text": "聚焦全球优质小游戏",
       "imgPath": [],
       "singleImg": "https://picsum.photos/380/154",
-      "sub_title": "OG真人",
+      "sub_title": "S真人",
       "sub_help": "性感荷官在线发牌",
       "anchor": "fish"
     },
